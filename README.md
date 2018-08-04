@@ -15,4 +15,4 @@ The columns in this dataset are:
 * Species
 
 # Accuracy
-This Neural Network reaches 99% of Accuracy
+This Neural Network reaches 94% of Accuracy
